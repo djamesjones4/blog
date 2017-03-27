@@ -1,0 +1,22 @@
+{
+  "name": "tupac_blog",
+  "version": "1.0.0",
+  "description": "a blog on tupac and theories of life after death",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicowave/blog.git"
+  },
+  "keywords": [
+    "tupac"
+  ],
+  "author": "staff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicowave/blog/issues"
+  },
+  "homepage": "https://github.com/nicowave/blog#readme"
+}
